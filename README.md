@@ -1,0 +1,2 @@
+# laughduck
+Laughduck site
